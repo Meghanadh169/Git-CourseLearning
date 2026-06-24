@@ -1,2 +1,6 @@
 "this will helps to understand the difference between the local repo and remote repo"q
- process;
+ process; 
+
+ iam add new featur 
+ creating a new avatae;
+ 
